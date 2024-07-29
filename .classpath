@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="mkh/week01/2071"/>
+	<classpathentry kind="src" path="mkh/week01/2072"/>
+	<classpathentry kind="src" path="mkh/week02/2063"/>
+	<classpathentry kind="src" path="mkh/week02/2068"/>
+	<classpathentry kind="src" path="mkh/week02/2070"/>
+	<classpathentry kind="output" path="mkh/bin"/>
+</classpath>
